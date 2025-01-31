@@ -1,0 +1,201 @@
+first_name,last_name,left,years,department,promoted_in_last_5yrs,joining_year
+Nancey,Aberdeen,false,5,Engineering,true,2002
+Forbes,Hadigate,true,9,Engineering,false,1991
+Jarrett,Alflatt,true,9,Product Management,true,2007
+Rick,Postance,true,2,Business Development,true,2009
+Tabb,Sugarman,true,7,Business Development,false,1998
+Myron,Aiskrigg,true,7,Marketing,true,1998
+Corette,Morby,false,8,Engineering,true,1965
+Rebbecca,Connew,false,4,Accounting,false,1985
+Andromache,Lauder,false,2,Business Development,true,2009
+Clark,Bollini,true,8,Accounting,true,1992
+Maude,Tumbelty,true,8,Human Resources,true,2005
+Coraline,Laverty,true,6,Engineering,true,2003
+Darell,Dorsey,true,9,Sales,true,1997
+Nevile,Hynd,true,4,Marketing,true,1996
+Had,Fayers,false,2,Human Resources,true,1993
+Arlie,Harlowe,false,10,Research and Development,false,2003
+Gilbertina,MacShirrie,false,3,Marketing,true,1978
+Gwyn,Braganca,true,10,Business Development,true,1997
+Jenifer,Woodwind,false,8,Engineering,false,1986
+Chrissie,Cavnor,false,3,Business Development,false,2003
+Gualterio,MacAnelley,false,6,Training,false,1999
+Henriette,Hawse,true,10,Support,true,1995
+Rabi,Matieu,true,1,Research and Development,true,1995
+Burnard,Witard,true,8,Services,false,1999
+Gordon,Coper,true,1,Engineering,true,2010
+Mindy,Ryde,true,2,Human Resources,false,2008
+Alon,Basey,true,6,Training,true,1997
+Jennee,Adams,true,6,Research and Development,true,2008
+Udell,Keers,false,7,Services,true,2006
+Christine,Rubbens,false,1,Human Resources,true,1995
+Pascale,Crewe,false,5,Product Management,true,1995
+Shelley,Selby,true,6,Accounting,false,2001
+Malanie,Dufore,false,9,Accounting,true,2003
+Ruthe,Marcroft,true,6,Business Development,true,1994
+Winnie,Weinham,true,10,Training,false,2008
+Millard,Barrim,true,6,Business Development,false,2006
+Katrinka,Fansy,false,4,Legal,true,1990
+Broderick,Trayhorn,true,5,Sales,false,1998
+Jon,Pettus,false,5,Training,true,2009
+De,Dautry,true,4,Support,false,1987
+Anthe,Rivelin,false,4,Accounting,true,2003
+Amelita,Dockrell,false,6,Engineering,false,1991
+Justinn,Waadenburg,true,3,Sales,true,2009
+Alvin,Hirth,false,6,Accounting,false,1983
+Lester,Gother,false,1,Legal,true,2002
+Frank,Rodders,false,3,Legal,true,2000
+Thia,Le Barr,false,6,Services,false,1991
+Nadean,Bourdice,false,9,Product Management,false,1995
+Rivalee,Puckring,true,3,Accounting,true,1993
+Magdalena,Dowson,true,8,Sales,false,2010
+Merola,Ingolotti,true,7,Engineering,false,2004
+Bonni,Culleton,false,5,Services,false,2001
+Tiphani,Lilliman,true,2,Sales,false,2009
+Jo,Clemensen,false,5,Training,false,2012
+Adrian,Dunley,false,9,Business Development,false,1992
+Hewe,Roskam,true,1,Support,false,2011
+Caril,Palmar,false,10,Marketing,false,2010
+Allina,O'Gormley,true,6,Training,true,2001
+Jaime,Watting,false,1,Services,true,1986
+Timothee,Deas,false,6,Business Development,true,1992
+Linnet,Yggo,true,5,Training,true,1998
+Terrill,Fonzone,false,4,Sales,true,2009
+Karylin,Keller,true,5,Marketing,false,2012
+Ceciley,Caban,true,3,Product Management,false,1996
+Josiah,Smead,true,4,Research and Development,true,1991
+Hakim,Wynch,true,6,Research and Development,true,1996
+Cleo,Benoix,true,1,Training,true,1991
+Monroe,Kilgrew,true,7,Product Management,false,2012
+Mavis,Philot,true,10,Support,true,1989
+Forbes,Pearl,false,9,Research and Development,false,1990
+Row,Artin,true,7,Services,true,1992
+Dorie,Spellessy,true,7,Marketing,true,2009
+Shandeigh,Pancast,false,6,Research and Development,true,2010
+Margarita,Feltoe,true,7,Accounting,true,2008
+Zackariah,Gallehock,true,10,Sales,true,2003
+Vally,Slingsby,true,7,Legal,true,2004
+Isiahi,Keenor,true,10,Business Development,false,2007
+Belinda,Watkiss,true,2,Accounting,false,1997
+Kay,Striker,false,1,Product Management,true,2005
+Kenon,Le Surf,false,7,Business Development,true,2001
+Batholomew,Dottrell,false,7,Product Management,false,2006
+Saudra,Minster,true,6,Engineering,false,1995
+Jens,Waldera,false,5,Sales,false,1999
+Shelagh,Bolland,true,1,Marketing,true,1993
+Margareta,Wyburn,false,5,Research and Development,true,1986
+Lem,Glazer,true,2,Human Resources,false,2007
+Leontine,Peotz,true,6,Business Development,true,2004
+Vanny,Fendlen,false,4,Business Development,false,2005
+Kenon,Padginton,false,2,Business Development,false,1991
+Bastien,Emburey,false,9,Engineering,true,1995
+Linette,Sygroves,true,4,Support,true,2012
+Reiko,Nutting,true,9,Human Resources,false,2006
+Jacky,Hussey,false,10,Marketing,true,1995
+Cullie,Larroway,true,10,Sales,true,2009
+Lelia,Leys,true,3,Product Management,false,2012
+Jay,Whitmore,true,2,Accounting,false,1992
+Kennith,Palffrey,true,1,Research and Development,true,1991
+Otha,Comino,false,7,Accounting,true,1992
+Eric,McClymont,false,1,Sales,true,2005
+Xever,Sivyour,true,10,Engineering,false,1997
+Oralle,Ramsdell,false,10,Legal,false,1988
+Tomlin,Baulk,true,7,Research and Development,false,2002
+Lannie,Bellchamber,true,5,Business Development,true,2000
+Dur,Beteriss,true,9,Services,false,2011
+Ludvig,Hatt,true,8,Support,false,2005
+Chaim,Chazotte,false,7,Product Management,true,2001
+Riley,Brian,false,3,Accounting,false,2009
+Eba,Coch,true,6,Human Resources,true,1989
+Nikaniki,Mapplebeck,true,8,Support,true,2005
+Cordy,McCreery,false,10,Services,true,2012
+Klara,Everitt,true,7,Accounting,true,1999
+Gaylord,Bucke,true,5,Services,true,2012
+Larina,Eminson,false,6,Accounting,false,2008
+Bob,Blackaby,false,6,Engineering,true,1993
+Ericha,Daffern,false,8,Services,false,2007
+Joshua,Rickhuss,true,1,Marketing,false,2012
+Jaime,Poolman,true,1,Business Development,true,1991
+Ardisj,Ellerman,false,5,Marketing,true,2011
+Sonny,Cammell,false,3,Support,true,1969
+Koren,Hacquoil,true,9,Human Resources,false,2012
+Giorgia,Phippen,false,3,Business Development,true,1998
+Andreana,Dunbobbin,true,7,Human Resources,false,1994
+Roth,McCrow,true,5,Marketing,false,1989
+Magdalen,Haldenby,false,3,Training,false,2009
+Jamaal,Howey,true,5,Marketing,true,1997
+Pansy,Bordiss,true,7,Support,false,1993
+Chad,Jurzyk,true,6,Business Development,true,1993
+Horatius,Colclough,true,2,Research and Development,false,1995
+Garreth,Henker,true,2,Sales,false,2012
+Mischa,Overel,true,5,Research and Development,false,2004
+Adolphus,Duckerin,true,7,Sales,false,2007
+Paulita,de Quesne,false,7,Product Management,false,2009
+Allison,Foan,true,10,Training,false,2012
+Kettie,Basnett,true,7,Support,true,2003
+Trixie,Bernard,true,10,Research and Development,true,2000
+Erik,Moreside,false,4,Marketing,true,1993
+Stephen,Ansty,false,6,Human Resources,false,2011
+Dory,Allibone,false,2,Human Resources,true,2009
+Darryl,Gobat,false,1,Accounting,true,1995
+Artair,Pods,true,2,Training,true,2012
+Perry,Valintine,true,1,Research and Development,false,1967
+Row,Hamfleet,true,1,Accounting,true,2011
+Karrah,Whellans,true,10,Sales,false,2004
+Myca,Pawellek,true,1,Marketing,false,2012
+Estell,Sworn,true,3,Legal,false,1998
+Jeffy,Girth,false,9,Support,false,2004
+Tomasina,Winram,true,3,Sales,true,1985
+Junie,Clancey,false,6,Business Development,true,2002
+Billy,Briar,true,1,Services,false,1993
+Karlan,Benez,false,5,Human Resources,false,1996
+Brenda,Alday,true,8,Business Development,false,2003
+Porter,Huggill,true,10,Product Management,false,1995
+Ardys,Gehricke,true,6,Sales,true,1994
+Vincenz,Undrell,true,10,Marketing,false,2006
+Alethea,Cansfield,false,10,Product Management,true,1993
+Avis,Kunert,true,5,Research and Development,false,2004
+Pansie,Benoit,false,10,Services,false,2005
+Jeane,Vasilchenko,true,6,Training,true,1990
+Milt,Corre,false,6,Research and Development,false,2007
+Dani,Dragonette,false,2,Research and Development,false,2009
+Jobye,Kibbye,false,2,Product Management,false,2002
+Tori,Whitehall,false,9,Human Resources,true,1999
+Wallis,Pechard,false,3,Training,true,2010
+Kameko,Qualtrough,true,3,Research and Development,false,1997
+Lory,Lauxmann,true,10,Sales,true,2003
+Vanni,Kaas,false,5,Product Management,false,1997
+Reeba,Coltart,false,2,Marketing,false,1994
+Ciro,Franchyonok,false,2,Research and Development,false,2013
+Myrle,Ericsson,false,3,Product Management,false,2008
+Hillel,Hallede,false,10,Research and Development,false,2009
+Carlee,Cacacie,false,3,Accounting,true,2009
+Lyn,Cornner,true,3,Human Resources,true,2010
+Isidoro,Kryzhov,true,8,Marketing,true,1999
+Marlon,Maxwell,true,6,Product Management,true,1986
+Abbie,Heggs,false,6,Services,false,1998
+Verne,Jeannel,false,9,Research and Development,false,2008
+Corissa,Stife,false,5,Marketing,true,2003
+Madelene,Simper,true,4,Services,true,2002
+Elvin,Boyer,false,7,Sales,false,2008
+Vinnie,Eggleton,false,7,Research and Development,false,2009
+Giacopo,Bernhardt,false,4,Sales,true,2006
+Eartha,Kolis,true,2,Human Resources,false,1995
+Natividad,Croshaw,true,6,Accounting,true,1992
+Olga,Bellows,true,5,Support,false,2006
+Florina,Le Surf,true,4,Accounting,false,2010
+Brnaba,MacFadzan,false,5,Legal,false,2002
+Daren,Winchester,false,10,Engineering,false,1999
+Cordelia,Slate,false,4,Services,false,2001
+Sky,Casetti,true,9,Engineering,false,2002
+Dolli,Gyorffy,true,6,Marketing,false,2000
+Tiffani,Measor,false,8,Legal,false,1993
+Gail,Nussgen,false,9,Sales,false,2006
+Karly,Mournian,true,4,Training,false,2009
+Noni,O'Dooghaine,true,8,Engineering,false,1989
+Glyn,Fensome,false,9,Engineering,true,1998
+Steve,Conibere,false,8,Engineering,false,2000
+Earle,Pedycan,false,9,Marketing,true,1988
+Jorge,McErlaine,true,3,Services,true,1999
+Alethea,Hearse,true,5,Services,true,2012
+Ossie,Springham,false,9,Human Resources,true,2006

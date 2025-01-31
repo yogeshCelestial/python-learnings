@@ -1,0 +1,17 @@
+# Ignore the virtual environment folder
+venv/
+.ipynb_checkpoints/
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore environment variables
+.env

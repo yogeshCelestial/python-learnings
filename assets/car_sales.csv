@@ -1,0 +1,1001 @@
+model,year,sales,country
+G-Series 1500,1996,3899,Poland
+Chariot,1992,9248,Canada
+Ram 3500,1996,8664,Tunisia
+Legend,1988,5159,Yemen
+Rabbit,2008,3906,Lithuania
+riolet,1992,3490,Thailand
+Type 2,1985,7123,Luxembourg
+MX-5,1990,7431,Vietnam
+Ram,2007,4603,Brazil
+DeVille,1994,7244,United States
+Country,1967,5678,Philippines
+Expedition EL,2012,3140,Philippines
+Tribute,2006,7386,Brazil
+Sienna,2006,1934,Jamaica
+TT,2005,3209,Argentina
+Range Rover,2000,3959,China
+323,1992,7486,Brazil
+Lancer Evolution,2004,2815,Colombia
+F250,1996,5980,Thailand
+Familia,1986,8607,China
+Elise,2006,8400,Japan
+Caliber,2011,9560,Philippines
+Accord,1983,6891,Honduras
+Excel,1989,2796,Greece
+i-350,2006,4777,China
+Ram 1500,1997,8818,Indonesia
+Continental Flying Spur,2011,9145,Pakistan
+Trooper,2002,3054,Syria
+LaCrosse,2012,7617,Canada
+Savana 3500,2005,8213,Yemen
+I,2003,3545,Peru
+Electra,1986,319,Oman
+Crown Victoria,2011,936,Philippines
+Camry,2004,5933,Afghanistan
+9-3,2008,8339,Slovenia
+Toronado,1966,8073,Russia
+Tacoma,2008,8473,Indonesia
+Prius,2001,6548,Russia
+SLS AMG,2012,4575,United States
+940,1993,3718,Argentina
+G-Class,2004,641,Chad
+Terraza,2007,9775,China
+Tacoma,2009,9823,Canada
+5000S,1985,1699,Kazakhstan
+90,1990,9644,Poland
+Nitro,2010,7871,Nigeria
+530,2001,1902,China
+G,2003,8527,Bosnia and Herzegovina
+Passat,1987,2072,Ukraine
+190E,1993,308,China
+Lancer,2012,9021,Peru
+S-Type,2006,8762,Colombia
+Elantra,2012,920,Vietnam
+Grand Prix,1981,7506,Philippines
+Trans Sport,1990,9737,China
+Prizm,1998,1581,China
+Ram 2500 Club,1997,8481,North Korea
+S-Class,2004,6916,Brazil
+xD,2009,992,Poland
+H2,2008,5621,Argentina
+Navajo,1991,5531,Nicaragua
+3500,1994,4888,China
+Crown Victoria,1998,4078,Poland
+Dakota,1997,1533,Indonesia
+Pilot,2005,9320,China
+Continental,1997,608,Cambodia
+Cougar,1988,5077,Ukraine
+F250,1998,6874,Poland
+MPV,1990,6222,Greece
+Lumina APV,1993,6615,Portugal
+PT Cruiser,2005,7147,Palestinian Territory
+Econoline E150,1995,9087,Philippines
+Ascender,2003,1049,China
+Cherokee,1992,2777,Argentina
+Cordia,1988,7011,Liberia
+Silverado 3500,2003,8333,Indonesia
+Cooper,2012,7860,Philippines
+S8,2009,2283,Thailand
+Continental,2006,7178,Indonesia
+Caravan,2010,4966,Japan
+Continental,1986,9683,Thailand
+Eldorado,2000,939,Brazil
+Jimmy,1999,7059,China
+Silverado,2007,8979,China
+Phantom,2008,2659,Pakistan
+Celica,2000,2249,China
+Grand Marquis,2001,7617,France
+R-Class,2006,8154,Nigeria
+SLK-Class,2002,2658,China
+Rodeo,1994,3177,Indonesia
+612 Scaglietti,2006,8936,Portugal
+Pajero,1995,4972,Portugal
+GTO,1968,6274,Jordan
+LS,1997,1455,China
+E-Class,1984,2152,Philippines
+SJ,1995,3929,Thailand
+SL-Class,1993,5091,Thailand
+Econoline E150,1993,7859,Cameroon
+Bronco,1995,1932,France
+Continental,2006,3176,Greece
+Avalanche,2012,6286,Poland
+Eclipse,2002,6232,Brazil
+Mark VIII,1996,6278,Greece
+1000,1984,6781,Dominican Republic
+911,1993,548,Madagascar
+Camry,2008,888,Portugal
+Outlook,2010,1273,Canada
+L-Series,2001,1961,Indonesia
+MX-5,2011,9989,Peru
+Bonneville,1964,8877,Ukraine
+Safari,1995,5918,Russia
+Lumina,1996,6734,Czech Republic
+Q7,2008,5213,Venezuela
+Golf,1990,4514,Cyprus
+Aerostar,1992,7132,Pakistan
+Pathfinder,1992,2846,Poland
+9-3,2007,3716,China
+207,2007,9282,Japan
+Aero 8,2007,4238,China
+Grand Cherokee,2002,4438,Croatia
+Clubman,2009,5976,Tuvalu
+760,2004,1950,Indonesia
+CX-9,2007,5960,Philippines
+Safari,1987,4817,Ireland
+S-Class,1992,2433,Russia
+D350,1993,9366,China
+RL,2012,9849,France
+Civic,2005,3084,Philippines
+Sonoma,1995,3951,Iran
+Cherokee,1998,4646,Japan
+Discovery,2010,306,Ukraine
+Arnage,2009,216,Kenya
+Fusion,2006,380,Portugal
+CTS,2005,6003,Indonesia
+Dakota,2005,5658,Togo
+Regal,1991,3363,Argentina
+Galant,1997,4611,Brazil
+X6,2011,8167,United States
+Jimmy,1993,5358,Ireland
+Talon,1991,6703,Philippines
+Hearse,1996,3024,China
+A6,2001,6375,Russia
+Jimmy,2000,1257,Vietnam
+Sierra 1500,2008,2744,Democratic Republic of the Congo
+V70,2010,7173,Indonesia
+New Beetle,2000,5181,Bulgaria
+Sonoma,1997,4275,Poland
+Leone,1985,1499,Brazil
+FX,2004,2517,China
+Express,2009,8906,China
+350Z,2005,2991,China
+Cressida,1992,824,Poland
+S-Class,1997,7889,Argentina
+Camry,2012,6285,Netherlands
+S-Series,1992,9220,Japan
+Passat,1986,8403,Canada
+Expedition,2000,958,Indonesia
+RAV4,2011,8977,Philippines
+Tacoma,1997,1960,Ukraine
+Ram 2500,2000,1585,China
+760,2006,3083,China
+Discovery,1996,7940,Portugal
+LSS,1998,552,Malaysia
+Sonoma,1997,9210,China
+Diablo,1998,7434,China
+F-Series Super Duty,2011,767,China
+S60,2004,9048,Sweden
+Sable,1999,6717,Russia
+XK Series,2002,7275,Brazil
+Viper,2004,4113,Brazil
+GTO,1991,5257,Portugal
+V50,2009,9368,Russia
+400SE,1992,9194,Finland
+XJ,2011,2978,Mexico
+Continental,1997,6096,Brazil
+LS,2010,4847,Sweden
+Tacoma,1995,839,Sweden
+Th!nk,2002,4748,China
+F150,2000,4269,Philippines
+Magnum,2005,8103,China
+Mighty Max Macro,1993,1739,Indonesia
+Alero,2003,3772,China
+Continental,1992,7954,Finland
+Marquis,1985,5159,Bulgaria
+M-Class,2004,6548,China
+Mystique,1997,1173,Iran
+Sierra 3500,2011,6160,China
+Pilot,2009,3330,Palestinian Territory
+Jetta,2007,9895,Albania
+Avenger,2010,3605,Hungary
+C-Class,1997,6337,Cameroon
+Rapide,2012,2758,China
+Swift,1993,3184,Uzbekistan
+Compass,2007,8215,Sweden
+M3,1997,7860,China
+Dakota,2009,2978,China
+G-Series G30,1994,4805,Portugal
+Envoy XL,2003,6854,Portugal
+Genesis,2010,8288,Indonesia
+944,1984,2047,Argentina
+F150,1996,9611,United States
+Lancer,2001,3373,China
+Impala,2003,4219,Indonesia
+Cordia,1987,8338,Croatia
+5 Series,2010,2516,United States
+Discovery,2001,7410,Iran
+RX Hybrid,2011,7734,Cuba
+XK Series,1997,1880,Indonesia
+Monte Carlo,1995,6794,Indonesia
+IS-F,2011,5561,Qatar
+HS,2012,8127,Brazil
+G,1995,2436,Thailand
+3 Series,1997,9846,Indonesia
+TL,1998,6366,Maldives
+Quest,2008,6494,Guinea
+Z8,2000,6404,Poland
+S-Series,1992,5638,Peru
+Express 1500,2002,7335,Russia
+Element,2008,6686,Indonesia
+9-3,2009,4952,Malaysia
+Cobalt SS,2008,525,Pakistan
+Familia,1986,4430,Ecuador
+Avalanche 2500,2002,4263,Malta
+ES,2000,7789,Albania
+ES,2012,9920,Philippines
+CC,2012,9454,Brazil
+Relay,2007,610,Indonesia
+Virage,2012,8424,Russia
+M,1992,9545,Mexico
+Paseo,1992,6867,China
+Eurovan,2002,8134,China
+EX,2012,7041,Armenia
+Skylark,1986,4218,Indonesia
+7 Series,2001,6926,Kyrgyzstan
+Accord,1997,1404,China
+Monterey,2004,8092,China
+Savana 2500,2010,3204,Cameroon
+D250 Club,1992,2610,France
+Intrepid,1993,5708,China
+Express 3500,2000,7692,Indonesia
+Safari,1993,2501,Sweden
+Stealth,1992,6245,Russia
+LSS,1999,3402,Cuba
+90,1994,9125,Philippines
+Silverado 2500,1999,1156,China
+Sequoia,2009,4158,Somalia
+Excel,1987,9318,Indonesia
+Civic,2000,8278,Philippines
+W201,1989,3084,China
+Thunderbird,1955,4492,Pakistan
+Diablo,1995,5074,Brazil
+S-Class,1987,4766,Croatia
+Spirit,1993,318,United States
+Grand Prix,1990,6452,Russia
+Probe,1991,7570,Paraguay
+Montego,2007,7697,Russia
+Crossfire,2007,1843,Philippines
+V70,1998,517,Philippines
+Terrain,2010,7708,Philippines
+Matrix,2012,4681,China
+E150,2004,4866,Czech Republic
+928,1990,6258,Peru
+Corvette,2001,9340,Portugal
+F-Series Super Duty,2012,6988,Japan
+Challenger,1999,912,Czech Republic
+Discovery,1998,2512,Mongolia
+Silverado 3500,2010,5069,China
+rio,1999,2513,Malawi
+Mazda3,2005,8612,China
+CR-V,2012,3091,Brazil
+V70,2006,2921,Bolivia
+V50,2011,5772,China
+IS,2011,5288,China
+Escalade,2000,7453,China
+Sentra,2010,8059,Thailand
+SC,2005,9898,Canada
+Ram Van 3500,1995,3272,New Zealand
+Mazda6,2003,6001,Nigeria
+Golf,2002,6604,Portugal
+I,2000,1923,Azerbaijan
+STS-V,2008,8005,Portugal
+V50,2008,5419,Ukraine
+Esprit,1996,4638,Indonesia
+Accord,1989,7446,Slovenia
+Virage,2012,3474,Philippines
+SLS AMG,2012,8998,Indonesia
+RX-7,1989,6963,Indonesia
+Chariot,1985,2098,Indonesia
+Taurus,1999,9897,Japan
+Blackwood,2002,7238,Philippines
+Explorer Sport Trac,2007,2215,China
+Torrent,2009,8464,China
+Sienna,1999,2690,Russia
+Sebring,2009,3098,Latvia
+323,1995,1212,Brazil
+Firebird,1995,1877,Russia
+MKT,2013,5955,Russia
+Escape,2013,3509,Jordan
+9000,1998,6119,Poland
+Chariot,1985,4667,Canada
+Escalade EXT,2008,3515,Slovakia
+SX4,2007,2375,Mexico
+Endeavor,2005,3094,Brazil
+Sable,2008,987,Indonesia
+GX,2012,8792,New Zealand
+Miata MX-5,2009,532,Indonesia
+Silverado 2500,2011,9948,Cuba
+Santa Fe,2002,4920,Philippines
+Fiesta,2013,3556,Russia
+F-Series Super Duty,2011,2318,France
+Rodeo,1992,2936,China
+Prowler,2002,4170,Thailand
+Bronco II,1989,4785,Brazil
+Thunderbird,1997,4058,Tunisia
+GTO,1974,9955,China
+EX,2012,5607,Canada
+900,1996,6986,Poland
+300E,1993,4918,Ukraine
+S-Series,2000,6071,Armenia
+RX-8,2006,5761,New Zealand
+Sigma,1989,5103,France
+Rapide,2011,3084,Argentina
+Cavalier,1996,8901,Indonesia
+Azera,2011,8798,Azerbaijan
+Mirage,1988,5233,China
+DBS,2012,8764,Saudi Arabia
+Azera,2012,1311,China
+H1,2006,1440,China
+Type 2,1991,3406,Indonesia
+Jimmy,1999,3546,China
+S-Series,1997,6894,Nepal
+Legacy,1994,4481,Cambodia
+Bel Air,1967,671,Sweden
+NSX,1997,1403,France
+Marauder,2004,5898,Indonesia
+Sebring,1996,4168,Czech Republic
+Corolla,1994,623,Philippines
+Sprinter,2010,8093,Russia
+E350,2009,4532,Azerbaijan
+Park Avenue,1998,1406,France
+Endeavor,2010,4410,Russia
+Grand Marquis,1994,4690,Indonesia
+Focus,2012,6377,Belarus
+Town Car,2007,1257,Ecuador
+Ram 3500,1998,5465,Indonesia
+E-Class,1990,3860,Kyrgyzstan
+Accord,2012,9904,China
+Mazda5,2009,4214,Canada
+Vision,1995,4177,Saint Kitts and Nevis
+Bronco,1985,3705,China
+Land Cruiser,1996,3016,China
+CLK-Class,2002,8497,Portugal
+Yukon,2004,3848,Canada
+Eclipse,1996,3329,China
+80,1990,3196,Indonesia
+Caravan,1998,6651,Indonesia
+SLX,1997,5304,Indonesia
+tC,2009,4160,Brazil
+Jimmy,2001,4632,Iran
+Monterey,2007,7680,Indonesia
+G-Series 3500,1997,2488,France
+Miata MX-5,2011,7916,China
+1500 Club Coupe,1999,5245,Brazil
+Range Rover,1997,9334,Venezuela
+960,1997,6681,Philippines
+Routan,2012,4830,Germany
+LTD,1985,1237,Mali
+Swift,2000,7390,Poland
+Ram 3500,1999,4263,Vietnam
+Swift,1999,4122,China
+911,1995,5891,Chile
+Golf III,1993,3547,Indonesia
+911,1985,8307,China
+Cougar,1988,1323,Indonesia
+Civic,1991,8714,Finland
+New Beetle,2003,417,China
+M3,1998,5408,Honduras
+Ram Van 3500,1998,9356,France
+RVR,1992,2849,Poland
+Express 2500,2003,5196,Mexico
+Civic,1980,215,China
+CTS,2003,669,Philippines
+Cutlass Supreme,1996,8364,China
+Tahoe,1995,3226,Brazil
+A8,2007,2762,Brazil
+626,1999,8045,Serbia
+Suburban 1500,2009,1479,Dominican Republic
+Bravada,1993,2466,Slovenia
+B-Series,1991,157,China
+CL-Class,2000,5615,Portugal
+E-Series,1991,6665,Tunisia
+Altima,2007,424,East Timor
+Canyon,2005,7143,Peru
+Fox,1992,4154,China
+X5,2011,4638,China
+62,2008,833,South Africa
+Legacy,2002,1299,Afghanistan
+V70,2010,1507,China
+E-Series,1993,6230,Philippines
+RX-8,2005,5288,Russia
+RL,1999,2664,Russia
+Tundra,2009,5009,Macedonia
+M5,2002,2679,Ivory Coast
+Xterra,2002,480,China
+Miata MX-5,1994,4768,Czech Republic
+Lancer Evolution,2004,4863,Poland
+Sky,2008,6381,Japan
+Titan,2007,1401,Brazil
+5 Series,1992,1234,China
+TrailBlazer,2008,8632,Malaysia
+E150,2008,1033,Nigeria
+80,1992,5780,Tajikistan
+Cutlass,1997,9330,Namibia
+Continental GT,2008,8084,China
+Forte,2010,8962,China
+Celica,2000,9092,Philippines
+LX,2004,1392,Norway
+Truck,1996,6963,Indonesia
+80,1992,5624,Guatemala
+Tribute,2006,9077,Thailand
+Jimmy,1992,9576,Slovenia
+Sierra 1500,2002,8183,France
+62,2012,5150,Malaysia
+Dakota,2010,8830,Philippines
+Spectra,2008,6574,Sweden
+MKZ,2008,1276,Indonesia
+Sierra 1500,2013,337,China
+Sierra,2008,2250,China
+W201,1991,4883,South Africa
+IS F,2010,902,Morocco
+525,2003,8069,Philippines
+Montego,2006,9855,Indonesia
+GS,2009,4466,Philippines
+E-Class,1990,2860,Philippines
+NSX,2004,5188,Libya
+S80,2005,4889,Canada
+Equinox,2011,4172,China
+Chariot,1994,1916,Slovenia
+S80,2005,5288,Finland
+Dakota,1995,335,Croatia
+RL,2010,2285,Philippines
+Discovery,1995,2945,Indonesia
+A8,2010,3547,Indonesia
+Defender,1995,4779,Canada
+Esteem,1998,4614,Nigeria
+G-Series 1500,1997,3514,Cyprus
+VehiCROSS,2001,8889,Japan
+F150,1996,2893,Russia
+Odyssey,1996,1116,Tunisia
+Grand Prix,1996,6431,Philippines
+Malibu,2006,6411,Poland
+Malibu,2011,212,Peru
+SL-Class,2009,6566,Palestinian Territory
+XC70,2007,9308,Japan
+Rabbit,2008,2544,Nepal
+SC,1993,7474,Colombia
+Cooper,2009,2885,China
+Tribute,2005,4707,Philippines
+Corvette,2010,7514,Argentina
+Pathfinder Armada,2004,3143,China
+200,2011,5931,Angola
+Yukon XL 2500,2003,9466,China
+Legacy,1991,340,Ethiopia
+Contour,1995,1210,China
+Topaz,1993,7687,China
+Tahoe,1997,425,France
+Monte Carlo,2006,1874,France
+Turbo Firefly,1990,5854,Indonesia
+Arnage,2006,7254,Tanzania
+Tracker,1998,3354,France
+F-250 Super Duty,2006,3942,South Korea
+Freelander,2002,1790,Myanmar
+Cordia,1988,6252,Poland
+Century,1996,9650,Russia
+Vantage,2010,9865,Tanzania
+W201,1993,3896,France
+Loyale,1992,2636,Moldova
+Intrepid,1993,3449,China
+V40,2003,6444,Albania
+Firefly,1988,9152,Sweden
+Range Rover,1992,2703,Sweden
+Express 3500,1998,6765,Philippines
+Fortwo,2011,6490,France
+CR-Z,2012,1054,Argentina
+Acclaim,1995,4122,Indonesia
+Odyssey,2002,7559,Pakistan
+Veracruz,2011,1013,Pakistan
+Galant,1995,8695,Jordan
+E350,2007,2844,Iran
+Mustang,2004,7397,Philippines
+G6,2009,1508,Portugal
+Mazda5,2007,7956,Philippines
+MX-3,1995,2558,Portugal
+Express 2500,2002,1474,Georgia
+Maxima,2011,7824,Indonesia
+8 Series,1995,1342,Malaysia
+Civic,1994,4603,Mexico
+Journey,2012,971,Indonesia
+W123,1977,2626,China
+Maxima,2009,6653,Russia
+Lancer Evolution,2005,3738,China
+Sierra,2012,8407,China
+LX,2008,4178,Greece
+Tracker,1993,7111,Sierra Leone
+Boxster,2002,9573,Egypt
+Fox,1992,1272,Cameroon
+XL-7,2001,461,Indonesia
+Altima,1995,1117,Poland
+Corolla,2012,2716,Bangladesh
+SRX,2012,8106,Kiribati
+Avalon,1998,9608,China
+Galant,2011,6992,China
+S-Series,1998,9673,Indonesia
+F350,1997,2498,Indonesia
+G-Class,2002,1126,Venezuela
+Golf,1984,1555,Indonesia
+F250,1998,8246,Mexico
+Fusion,2013,5684,Mexico
+Alpina B7,2007,530,Finland
+Regal,1986,4282,China
+Prelude,1998,5314,Russia
+F250,1993,3276,Tajikistan
+Celica,2002,6655,Bulgaria
+Avalanche,2009,2088,Philippines
+S5,2010,7477,Indonesia
+Aspire,1997,5609,Nicaragua
+IPL G,2011,3842,Russia
+Sable,1986,1802,Indonesia
+928,1991,8747,Indonesia
+Tribute,2009,7195,France
+Sierra Denali,2006,9566,China
+Taurus,2008,6638,Russia
+Tundra,2001,5461,Russia
+Exige,2007,9760,Indonesia
+Concorde,1994,1379,China
+X3,2004,2957,China
+X3,2010,5110,China
+Eurovan,2003,1656,France
+Caravan,2002,5832,China
+Rabbit,2010,6680,Sweden
+Bonneville,1996,2220,Indonesia
+G,1993,3967,Indonesia
+Mirage,1998,3730,Ecuador
+928,1995,5294,Poland
+S40,2002,943,Ivory Coast
+FX,2012,2810,Nicaragua
+Savana 1500,2002,5948,China
+Windstar,1998,7794,Honduras
+Neon,2002,6842,Palestinian Territory
+Frontier,2000,6989,Egypt
+9-5,2005,7829,China
+Colt,1994,5427,Poland
+Suburban 2500,1996,5796,Japan
+Dakota Club,2004,2849,China
+Express 3500,2001,2943,Indonesia
+GTI,2002,8741,Nigeria
+57S,2005,688,Indonesia
+Sierra 3500,2009,3864,Tunisia
+Expedition,1999,9581,Sweden
+Custom Cruiser,1992,3191,United States
+Yukon XL 1500,2007,2569,Japan
+1000,1986,3823,Indonesia
+Tracer,1991,4022,Portugal
+Avanti,1964,9005,Indonesia
+Vandura 2500,1994,5064,Slovenia
+Torrent,2007,5412,Russia
+Pathfinder,1996,5695,Finland
+300ZX,1993,7453,Russia
+Legacy,1995,5281,France
+Caliber,2011,9466,Philippines
+B-Series,1994,7060,Brazil
+Corvette,1961,8196,Honduras
+Wrangler,1998,4091,Portugal
+Cherokee,1996,6171,China
+SJ,1991,364,China
+S2000,2005,5083,Kuwait
+Daewoo Lacetti,2008,6656,Brazil
+Celica,1978,3869,China
+X6,2011,1293,Central African Republic
+Gallardo,2008,4313,Russia
+Suburban 1500,1992,1266,Brazil
+Seville,1995,8545,United States
+Grand Marquis,1993,9098,Poland
+Mirage,1986,1376,Belarus
+Caprice,1994,1045,Russia
+Navigator,2012,1561,Ukraine
+Savana 1500,2000,6668,South Korea
+3500 Club Coupe,1998,2364,Portugal
+Outback,2009,798,Democratic Republic of the Congo
+TSX,2006,3982,Venezuela
+X6,2013,9302,Norway
+Ram 1500,2008,173,Portugal
+IS F,2008,5854,Portugal
+Grand Prix,2002,2251,United States
+Tundra,2003,6498,Brazil
+F250,2009,354,Portugal
+RX,2004,3854,Indonesia
+Stratus,1999,7414,China
+C-Class,2000,4515,Indonesia
+E-Series,2004,7300,United States
+2500,1996,9839,Vietnam
+SX4,2011,2730,Indonesia
+Veloster,2012,3849,Zambia
+E-Class,2001,1456,Indonesia
+Viper,2006,9616,Russia
+Rally Wagon G2500,1995,7692,Poland
+Montero Sport,2003,1262,Philippines
+Jetta,1989,3853,Ukraine
+Ranger,2010,479,China
+Vega,1971,7402,Finland
+Eldorado,1993,2332,Poland
+Esprit,1990,5513,China
+MDX,2012,4362,China
+Cabriolet,1996,6830,Indonesia
+Grand Am,1996,8459,Portugal
+Loyale,1992,5178,Jamaica
+Mustang,1999,2405,Japan
+Grand Am,1997,9240,Sweden
+Sorento,2013,3600,Greece
+3500,1992,7874,Portugal
+Sonata,2007,7901,China
+S-Class,2006,1616,Nigeria
+M,1992,6417,China
+Truck,1994,6160,Finland
+Millenia,2000,8649,China
+CR-V,2006,1224,France
+Range Rover Sport,2006,1460,Ukraine
+Tucson,2008,5087,China
+New Beetle,2009,147,Indonesia
+VS Commodore,1995,7472,Indonesia
+Cayenne,2008,8614,Indonesia
+CR-X,1985,3650,Sri Lanka
+V70,1998,5337,Sweden
+CTS,2006,7892,Russia
+4Runner,2002,6085,China
+S10 Blazer,1992,7396,France
+Silhouette,2001,5447,Nigeria
+Seville,1995,4311,Peru
+9-5,2010,4271,Peru
+TL,2004,4813,Nigeria
+9-3,2006,5948,China
+Cavalier,1999,2735,Philippines
+Escalade ESV,2011,3473,Ukraine
+E150,2011,7052,Argentina
+Jetta,1995,6883,Cuba
+M,2009,2649,Armenia
+Gemini,1986,329,China
+Flex,2013,5155,China
+Beetle,1967,6859,Russia
+SC,1995,3845,Philippines
+Corolla,2003,139,Zimbabwe
+S-Class,2007,1453,Netherlands
+Continental GT,2009,895,Malaysia
+D350,1992,9283,Papua New Guinea
+Sportage,1998,6410,China
+Caliber,2010,2151,Brazil
+S60,2003,719,Indonesia
+Explorer Sport Trac,2005,2078,Nigeria
+Solstice,2009,1350,Portugal
+Kizashi,2010,2165,Venezuela
+Windstar,2003,791,United States
+3000GT,1997,5654,Lithuania
+300,2005,934,China
+Frontier,2004,7049,Brazil
+Familia,1985,2692,El Salvador
+Mirage,1990,1434,United States
+300ZX,1996,754,Iran
+Alcyone SVX,1995,5695,China
+Canyon,2005,4165,Lebanon
+Corvette,2009,9350,France
+Explorer,1991,9292,Sweden
+Loyale,1992,1039,Japan
+STS,2009,3539,Russia
+Aura,2007,6149,Indonesia
+300ZX,1994,843,Indonesia
+545,2005,2493,Iran
+CR-V,2008,4870,China
+940,1993,6845,Thailand
+Pathfinder,1995,6046,China
+Ram Van 1500,1999,3929,Kyrgyzstan
+Grand Prix,1994,5546,Mauritius
+Spectra,2001,7766,Philippines
+Insight,2012,7293,China
+Avalanche 1500,2002,3536,Cameroon
+A5,2012,1587,Brazil
+Viper,1992,7139,Sweden
+Pathfinder,2000,6420,Czech Republic
+xB,2011,4413,Canada
+Regal,1990,3653,Indonesia
+Crossfire Roadster,2006,1417,Dominican Republic
+Galant,1999,1099,Portugal
+Civic Si,2003,7588,China
+Mariner,2005,8480,Norway
+X3,2007,7074,Morocco
+Aerostar,1987,7057,China
+Silverado 3500,2004,343,China
+Grand Caravan,2001,4196,Peru
+Grand Am,1989,4776,Kenya
+Ram,2003,7982,Netherlands
+B9 Tribeca,2006,2305,Iraq
+Impulse,1992,2915,South Korea
+3500,1992,3234,Pakistan
+Suburban 2500,1994,3494,Peru
+Highlander,2007,406,Poland
+Escalade ESV,2011,4700,Philippines
+SSR,2003,210,China
+Caravan,2008,3364,China
+MX-6,1997,4692,China
+Cordia,1985,8101,Kazakhstan
+Club Wagon,1998,7757,Afghanistan
+300M,2002,1756,Venezuela
+Touareg,2003,3102,Thailand
+Esprit,2002,877,Colombia
+Chevette,1987,5995,Philippines
+2500 Club Coupe,1997,4007,Mexico
+Z3,2002,1485,Indonesia
+Aurora,1995,3281,Greece
+Neon,1996,9722,Brazil
+M,2009,4695,Thailand
+Type 2,1985,619,China
+Viper,1998,4185,Poland
+Roadmaster,1996,6702,Canada
+Eclipse,1996,1062,Peru
+Frontier,2004,2772,Poland
+Celica,1983,1352,Russia
+B-Series,2003,7826,China
+Vanagon,1984,6432,China
+Tempo,1993,188,Sweden
+Escalade ESV,2003,182,Uganda
+Ram Van 3500,1999,5144,China
+V70,2010,7922,China
+Sable,1988,4127,Morocco
+X6 M,2012,6220,New Zealand
+S60,2013,2362,Italy
+Montero,2006,1181,Brazil
+Durango,1999,436,China
+G35,2003,2910,Sweden
+A5,2009,3973,Mongolia
+Quest,2009,6059,Honduras
+Sentra,2001,8380,Japan
+Savana 3500,2001,1785,Denmark
+S-Class,2004,935,Mexico
+Sable,1990,6144,Russia
+S-Class,2011,4597,Serbia
+Escort,2004,7347,Brazil
+Odyssey,2007,2424,Sweden
+Millenia,1999,5702,France
+Corrado,1990,185,Russia
+MDX,2001,5836,Brazil
+Colt,1994,3590,China
+Jetta,1988,4061,China
+Phaeton,2005,4449,Russia
+SL-Class,1995,7929,Finland
+Firebird,1990,5397,France
+TundraMax,2011,2085,Poland
+Forte,2011,703,China
+Tracker,2003,2162,Japan
+Econoline E250,1995,2003,China
+Accent,2003,2017,China
+Accord,1996,2023,France
+Forte,2010,5716,Sweden
+Grand Am,2004,9609,Sweden
+Q,1999,4823,Peru
+Lancer Evolution,2011,7715,Philippines
+1500,1994,2597,Czech Republic
+Gemini,1987,6018,Colombia
+Camry,1994,9783,China
+Murano,2010,3297,Switzerland
+Mirage,1995,4065,Venezuela
+Topaz,1988,7394,Russia
+Windstar,1999,1980,Finland
+Dakota,2005,2261,Cuba
+4Runner,1999,3114,Vietnam
+650,2006,8084,China
+Jetta,1994,9886,Nigeria
+Amanti,2009,6864,Portugal
+Savana 3500,2010,9134,Colombia
+Hombre,1996,4760,Indonesia
+R-Class,2007,2558,France
+Quattroporte,1984,3219,China
+S-Type,2006,5554,Uganda
+S-Class,1993,2189,Russia
+Yukon,1999,265,Russia
+Achieva,1994,903,Bhutan
+Volt,2011,5017,Spain
+Mustang,1986,2625,Norway
+Elise,2004,5951,Brazil
+B2600,1987,4407,China
+Elan,1992,9818,China
+Thunderbird,2004,5795,Brazil
+Golf III,1994,4534,Sweden
+Park Avenue,2005,9004,Japan
+Firefly,1988,4861,Indonesia
+Chariot,1989,3306,Indonesia
+Camaro,1981,5575,Malaysia
+3500,1997,3985,Indonesia
+Prelude,1985,5553,Philippines
+Range Rover,2000,2466,China
+Ram 3500 Club,1995,301,Bulgaria
+Starion,1985,3863,Portugal
+S-Class,1989,8294,Sweden
+Tacoma Xtra,2002,9374,Portugal
+Accent,2010,5134,France
+Stratus,1998,1692,Ivory Coast
+SLK-Class,1997,7028,Myanmar
+9-7X,2007,8252,Ukraine
+Avalon,2003,856,Nigeria
+Montego,2007,9337,Mexico
+Sentra,2010,6563,China
+Genesis,2012,3146,Brazil
+57,2004,3577,China
+5 Series,1992,2811,Russia
+Imperial,1926,7962,Philippines
+GTI,2010,7603,Mauritius
+Villager,1994,5483,Indonesia
+Corvette,1997,5035,Kenya
+Elantra,2002,4291,Vietnam
+Diamante,2000,6034,China
+Escape,2007,5193,China
+Z4 M Roadster,2009,7069,Kosovo
+RX Hybrid,2011,4344,Indonesia
+Outlander,2007,8387,China
+GTO,2006,6343,China
+Mirage,2000,7826,Netherlands
+Sonata,1997,889,United States
+Leganza,1999,9533,Indonesia
+Sierra,2010,376,Uganda
+Axiom,2002,6277,China
+Rondo,2010,440,Dominican Republic
+Cayenne,2010,1871,Indonesia
+B-Series Plus,1992,1707,China
+5000S,1987,9825,China
+Allante,1993,4333,Afghanistan
+F250,2009,4886,Czech Republic
+Yukon XL 1500,2000,6587,China
+CTS,2011,7973,China
+Daewoo Lacetti,2007,274,Russia
+Range Rover,1991,1395,Brazil
+X5,2011,9505,South Korea
+Ram 1500,1995,3117,China
+Sebring,1998,568,Albania
+V70,2007,2373,United Kingdom
+Prius,2002,2656,China
+XT,1987,558,China
+Sunfire,1997,5545,Indonesia
+4Runner,1994,8919,Indonesia
+Odyssey,2008,2362,China
+XC90,2003,7119,Cuba
+Continental Mark VII,1992,526,Mexico
+Explorer Sport Trac,2009,9597,China
+C70,2006,8892,Japan
+Cirrus,1995,8139,Russia
+430,1990,6401,Pakistan
+Sierra 3500,2002,9693,Thailand
+Savana 2500,2008,7368,Yemen
+Aspen,2007,4735,China
+Park Avenue,1998,8182,Portugal
+626,1996,5565,Indonesia
+Explorer,2005,2414,China
+S-Series,2000,9753,Palestinian Territory
+Mustang,2009,4491,Japan
+xA,2005,4300,Poland
+Town Car,1999,935,Indonesia
+Accord,2009,9669,Mexico
+Freelander,2010,5236,China
+Corvair,1960,9652,Vietnam
+SJ 410,1986,7327,Indonesia
+Mighty Max,1993,1752,Reunion
+A6,2003,5178,Tunisia
+Tacoma,2008,8600,Thailand
+TT,2000,5866,Czech Republic
+Ram 1500,2006,7300,Indonesia
+V70,2002,4937,Bulgaria
+Corvette,1972,9689,Serbia
+V70,2000,3408,Indonesia
+M,2011,9015,Albania
+NV1500,2012,8386,China
+C-Class,2011,2748,Kazakhstan
+Miata MX-5,1993,5506,Russia
+Stratus,2002,7164,China
+Cayenne,2005,7333,Indonesia
+Crown Victoria,2002,3824,China
+4000s,1986,1399,Philippines
+Chariot,1987,4699,Nicaragua
+Azure,2008,7835,China
+Tiburon,2000,578,China
+Ram 1500,2010,8426,Serbia
+Yukon XL 1500,2002,586,Colombia
+Villager,1993,3845,Sweden
+Safari,1996,351,France
+Civic,2004,7935,Philippines
+88,1996,6746,Colombia
+M-Class,2011,2479,Czech Republic
+Tiburon,2009,5176,Indonesia
+i-Series,2008,3291,Philippines
+Ram 2500,2010,9106,Syria
+Maxima,2009,8709,China
+CLK-Class,1998,2897,Tajikistan
+Escalade EXT,2004,5684,China
+207,2006,6620,Slovenia
+F-Series,1991,5279,Fiji
+Seville,1994,4091,Dominican Republic
+Rabbit,2009,4115,China
+Paseo,1996,6405,China
+V70,2006,539,Poland
+F250,2005,4491,China
+Land Cruiser,1994,6664,Indonesia
+Cavalier,1995,3408,China
+Aura,2008,8924,Poland
+LR3,2009,1638,Nigeria
+8 Series,1995,1244,China
+Grand Prix,2001,6626,Israel
+Elise,2005,1891,Canada
+i-280,2006,9440,Colombia
+Classic,1963,5904,Indonesia
+Caprice,1983,6382,Malaysia
+GTI,1996,5736,Serbia
+S-Class,1985,9303,Peru
+Aerostar,1986,1615,New Zealand
+Endeavor,2006,7933,Czech Republic
+Tribute,2004,7398,Ecuador
+G-Series G10,1994,8777,Russia
+Azure,2006,8130,Portugal
+Suburban 2500,1997,6985,China
+Pathfinder Armada,2004,2844,Portugal
+Caravan,1997,8272,Philippines
+XC90,2003,9436,China
+Silverado 2500,1999,8698,Honduras
+M3,2012,7055,Ethiopia
+Outback,2011,8432,Colombia
+Express 3500,2006,443,Russia
+S60,2005,1471,Indonesia
+E250,2008,1975,Peru
+XC70,2006,8811,Brazil
+HHR Panel,2006,9149,Indonesia
+Prizm,2001,6150,China
+Sequoia,2004,6679,Nicaragua
+Eclipse,1993,5230,Poland
+V8 Vantage,2007,4767,Argentina
+Ranger,2000,9312,Thailand
+RAV4,2008,8128,Indonesia
+MX-6,1988,1161,Russia
+Vibe,2010,4117,China
+NSX,1996,4839,Indonesia
+Suburban 1500,2009,761,Honduras
+i-370,2008,3801,China
+Ghost,2012,7627,Honduras
+Grand Caravan,2006,7298,China
+530,2001,3295,Peru
+R32,2004,7176,Portugal
+Roadmaster,1996,3079,China
+GTO,2006,7546,China
+Mustang,1974,270,Papua New Guinea
+Accord,2011,1681,Peru
+Arnage,2008,3744,Portugal
+Fit,2010,7640,Portugal
+Laser,1988,4252,China
+Optima,2010,7959,Spain
+1500,1997,4667,Kazakhstan
+F-350 Super Duty,2006,4218,United States
+Century,1995,1068,Palau
+XJ Series,1994,2438,China
+Savana 3500,2000,9701,Philippines
+Golf,2012,4880,United States
+Malibu,2012,9417,France
+S-Class,1988,7111,Brazil
+Beretta,1996,336,Canada
+SLS AMG,2011,7820,Russia
+Ram 1500,2002,9697,Argentina
+S80,2001,4346,Canada
+325,2004,9970,Poland
+Vibe,2009,7769,Poland
+850,1994,9448,Philippines
+Dakota Club,1993,5048,Russia
+968,1995,4169,Brazil
+500SL,1992,6940,Chad
+Freelander,2003,7653,China
+Sidekick,1997,4712,Germany
+Lancer,2004,6243,China
+Paseo,1994,5373,China
+Maxima,2000,2613,Indonesia
+NSX,2002,8782,China
+Mirage,1989,8183,Sweden
+TL,1995,3439,Russia
+Celica,2002,6745,Peru
+Taurus,1989,3514,Iran
+626,1997,4732,Chad
+Colorado,2007,4479,Indonesia
+325,2005,3742,Philippines
+3 Series,2009,1032,Venezuela
+RX-7,1991,4953,Philippines
+Capri,1984,9654,Georgia
+Celica,1997,7734,Vietnam
+Tempo,1989,7081,China
+Avalanche 2500,2005,9205,Indonesia
+Trooper,1996,1444,Indonesia
+Ram 1500,2010,5461,China
+Sidekick,1994,6731,China
+Esperante,2007,6669,Greece
+Passat,1998,8596,Portugal
